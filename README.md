@@ -12,7 +12,7 @@
 	
 ## <picture><img src = "https://img.icons8.com/ios-filled/50/ffffff/info.png" width = 50px></picture> **About me**
 
-<picture> <img src="https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg" width = 250px></picture>
+<picture> <img src="https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg" width = 100%></picture>
 
 <br>
 
