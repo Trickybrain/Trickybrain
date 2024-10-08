@@ -132,7 +132,7 @@
 
 <li>
 <a href="https://linkedin.com/in/edwinysk" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Edwin-Ye-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  EdwinYe-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -142,7 +142,7 @@
 
 <li>
 <a href="mailto:edwinyedeveloper@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Edwin-Ye-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  EdwinYe-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
