@@ -138,8 +138,8 @@
 
 <br>
 <br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect..!</b><img src="https://camo.githubusercontent.com/533319885b8aea7dd010edf104b05fae70cd5f0300f65399b6b4d30a4fb89e7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966
+" width ="80">
 <br>
 <div align='left'>
 
