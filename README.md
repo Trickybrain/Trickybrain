@@ -10,7 +10,7 @@
 
 
 	
-## <picture><img src = "https://as2.ftcdn.net/v2/jpg/04/80/48/09/1000_F_480480901_erzX7vCDvCcbwQBtR2earz5wOHZ393Bo.jpg" width = 50px></picture> **About me**
+## <picture><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMPBZTo5AkZoqdZlsXfVefCKCUW8Z-5b86uA&s" width = 50px></picture> **About me**
 
 //<picture> <img align="right" src="" width = 250px></picture>
 
