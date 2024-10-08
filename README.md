@@ -143,7 +143,7 @@
   <h2><b>Let's Connect..!</b></h2>
 </div>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's</b> Connect <b>...! </b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><h2><b>Let's</b><b>Connect...! </b>:)</h2></em>
 
 <br>
 <div align='left'>
