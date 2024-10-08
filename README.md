@@ -13,6 +13,7 @@
 
 	
 ## 👨‍💻 **About me**
+## <picture><img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="50px"></picture> 
 
 <picture> <img src="https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg" width = 100%></picture>
 
