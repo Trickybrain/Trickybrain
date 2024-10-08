@@ -10,7 +10,7 @@
 
 
 	
-## <picture><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMPBZTo5AkZoqdZlsXfVefCKCUW8Z-5b86uA&s" width = 50px></picture> **About me**
+## <picture><img src = "https://img.icons8.com/ios-filled/50/ffffff/info.png" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="" width = 250px></picture>
 
