@@ -138,7 +138,10 @@
 
 <br>
 <br>
-## <b> Let's Connect..!</b><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width ="80">
+<div style="display: flex; align-items: center;">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80px">
+  <h2><b>Let's Connect..!</b></h2>
+</div>
 <br>
 <div align='left'>
 
