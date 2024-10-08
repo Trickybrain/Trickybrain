@@ -12,7 +12,7 @@
 	
 ## <picture><img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMPBZTo5AkZoqdZlsXfVefCKCUW8Z-5b86uA&s" width = 50px></picture> **About me**
 
-//<picture> <img align="right" src="" width = 250px></picture>
+<picture> <img align="right" src="" width = 250px></picture>
 
 <br>
 
@@ -108,7 +108,7 @@
 <div align="center">
 
 <a href="https://github.com/trickybrain/">
-  <img src="https://github-readme-stats.vercel.app/api?username=trickybrain&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=trickybrain&include_all_commits=true&count_private=true&show_icons=true&theme=dark" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trickybrain&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="trickybrain"/>
 
 
