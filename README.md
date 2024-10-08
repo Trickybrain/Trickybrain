@@ -139,11 +139,11 @@
 <br>
 <br>
 <div align-items: center;">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px">
-  <h2><b>Let's Connect..!</b></h2>
+  <h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50px">
+  <b>Let's Connect..!</b></h2>
 </div>
 
-<h2><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Let's</b><b>Connect...! </b>:)</em></h2>
+
 
 <br>
 <div align='left'>
