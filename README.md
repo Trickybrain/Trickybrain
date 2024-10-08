@@ -12,7 +12,7 @@
 	
 ## <picture><img src = "https://img.icons8.com/ios-filled/50/ffffff/info.png" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="" width = 250px></picture>
+<picture> <img align="right" src="https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg" width = 250px></picture>
 
 <br>
 
@@ -20,9 +20,9 @@
 - A passionate Full Stack Developer with expertise in both frontend and backend technologies.
 - Experienced in building web applications using React, C#, .NET, SQL, and more.
 - Currently working on a League of Legends prediction app using the Riot API and machine learning.
-- Website that I have worked on: savannah-rental.com and orangemotel.com
-- Personal website [link](https://trickybrain.github.io/)
-- I’m currently open for a full-time or part-time opportunity, onsite, remote, or hybrid. this is [my resume](https://apricot-hyacinthe-45.tiiny.site/)
+- Websites that I have worked on: [savannah-rental.com](https://www.savannah-rental.com) and [orangemotel.com](https://www.orangemotel.com)
+- Personal website [Click Here](https://trickybrain.github.io/)
+- I’m currently open for a full-time or part-time opportunity, onsite, remote, or hybrid. this is [My Resume Click Here](https://apricot-hyacinthe-45.tiiny.site/)
 
 <br><br>
 
