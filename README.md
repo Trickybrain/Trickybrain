@@ -11,9 +11,9 @@
 
 
 
-## <picture><img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="50px"></picture>  **About me**
+## <picture><img src="https://media.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif" width="35px"></picture>  **About me**
 
-<picture> <img src="https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg" width ="35"></picture>
+<picture> <img src="https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg" width ="100%"></picture>
 
 <br>
 
